@@ -1,0 +1,17 @@
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_obj\Debug\MIConvexHull.CSharp.csprojResolveAssemblyReference.cache
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Development\Unity\MIConvexHull\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
