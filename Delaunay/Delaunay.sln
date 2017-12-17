@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delaunay", "Delaunay.csproj", "{7441DF7E-8815-59D8-2BF5-E8498E47FEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delaunay.Plugins", "Delaunay.Plugins.csproj", "{6934EA23-2E6B-D60A-9434-EC2074AB92FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delaunay.Editor", "Delaunay.Editor.csproj", "{7A139DF2-7A4B-1325-9CE0-723191868E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7441DF7E-8815-59D8-2BF5-E8498E47FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7441DF7E-8815-59D8-2BF5-E8498E47FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7441DF7E-8815-59D8-2BF5-E8498E47FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7441DF7E-8815-59D8-2BF5-E8498E47FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6934EA23-2E6B-D60A-9434-EC2074AB92FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6934EA23-2E6B-D60A-9434-EC2074AB92FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6934EA23-2E6B-D60A-9434-EC2074AB92FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6934EA23-2E6B-D60A-9434-EC2074AB92FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A139DF2-7A4B-1325-9CE0-723191868E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A139DF2-7A4B-1325-9CE0-723191868E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A139DF2-7A4B-1325-9CE0-723191868E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A139DF2-7A4B-1325-9CE0-723191868E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

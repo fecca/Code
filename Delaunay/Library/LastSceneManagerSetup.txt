@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Niklas/Downloads/Source/Planets/Assets/main.unity
+  isLoaded: 1
+  isActive: 1
